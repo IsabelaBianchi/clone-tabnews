@@ -1,5 +1,4 @@
 function Home(){
-    return <h1>(◕‿◕)</h1>
+    return <h1>como fico quando vejo você (◕‿◕)</h1>
 }
-
 export default Home;
